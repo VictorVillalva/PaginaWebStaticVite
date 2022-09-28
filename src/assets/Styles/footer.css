@@ -1,0 +1,27 @@
+footer{
+    position: relative;
+    height: 100px;
+    bottom: 0;
+    background-color: #ffff;
+    align-items: flex-end;
+    margin-top: 400px;
+}
+.img-footer{
+    width: 10%;
+    float: left;
+    margin-top: 25px;
+    margin-left: 8px;
+    position: relative;
+    top: -10px;
+}
+footer p{
+    font-size: 15px;
+    position: relative;
+    bottom: -30px;
+    left: 230%;
+    font-family: 'Lato', sans-serif;
+    margin-left: 5px;
+}
+footer div{
+    position: absolute;
+}
